@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "848912310524",
+    "project_id": "stackit-32eff",
+    "storage_bucket": "stackit-32eff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848912310524:android:ab1700831a62d2a11e7779",
+        "android_client_info": {
+          "package_name": "com.example.stackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848912310524-5bpsqrker18ah6h99lfonpmmhgg6ihad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GdLjJdyd7PNxcdCdZLGCoxO60yhvNrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848912310524-5bpsqrker18ah6h99lfonpmmhgg6ihad.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848912310524-hu9nl2471ep738kl8hqic5jalk29afg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stackit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,8 @@
 # StackIt - Q&A Platform
 
 A Stack Overflow-like Q&A application built with Flutter, Firebase, and Node.js backend.
+Team Name: Team 4005 
+Email: nirdeshgothania25@gmail.com
 
 ## Features
 
